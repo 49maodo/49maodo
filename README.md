@@ -1,10 +1,20 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=49maodo&&theme=onedark" alt="49maodo" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=49maodo&label=Profile%20views&color=yellow&style=flat" alt="49maodo" /> </p>
 
-<div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=49maodo&theme=onedark" alt="49maodo" /></a> </p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+        <img align="center" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=49maodo&layout=compact&langs_count=10&theme=onedark&hide_border=true&count-private=true" 
+        alt="49maodo" />
+        <img align="center" height="auto"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=49maodo&theme=onedark&hide_border=true" 
+        alt="49maodo" />
+</p>
+<div align="center">
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -46,6 +56,17 @@
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
     </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=49maodo&theme=dark&hide_border=false&show_icons=true&locale=en" alt="49maodo" /></p>
+<p align="center">
+<img align="center" 
+        src="https://github-readme-stats.vercel.app/api?username=49maodo&theme=onedark&hide_border=false&show_icons=true&locale=en" 
+        alt="49maodo" />
+<img align="center" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=49maodo&theme=onedark&hide_border=false&" 
+        alt="49maodo" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=49maodo&theme=dark&hide_border=false&" alt="49maodo" /></p>
+<p align="center">
+<img align="center" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=49maodo&theme=onedark&hide_border=true" 
+        alt="49maodo" />
+</p>
