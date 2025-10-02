@@ -1,4 +1,13 @@
-<h3 align="center">A passionate Full Stack developer</h3>
+<h1 align="center">A passionate Full Stack developer</h1>
+<div align="center">
+
+👯 I’m open to help you take your projects to the next level<br>
+🤝 I also contribute to opensource projects<br>
+📫 How to reach me **maodo9511@gmail.com**<br>
+        
+</div>
+
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=49maodo&label=Profile%20views&color=yellow&style=flat" alt="49maodo" /> </p>
